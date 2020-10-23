@@ -1,0 +1,230 @@
+{
+    "termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+    "currency": "HUF",
+    "currPrecision": 0,
+    "trips": [
+        {
+            "origin": "BUD",
+            "originName": "Budapest T2B",
+            "destination": "LIS",
+            "destinationName": "Lisbon T2",
+            "dates": [
+                {
+                    "dateOut": "2019-11-04T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2019-11-05T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": 5,
+                            "flightKey": "FR~8859~ ~~BUD~11/05/2019 11:25~LIS~11/05/2019 14:15~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~V~ ~FR~VLDISZP~ZZZP~~0~1~~X",
+                                "fareClass": "V",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 21425.00000,
+                                        "count": 1,
+                                        "hasDiscount": true,
+                                        "publishedFare": 23759.0000,
+                                        "discountInPercent": 10,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "BUD",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 8859",
+                                    "time": [
+                                        "2019-11-05T11:25:00.000",
+                                        "2019-11-05T14:15:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2019-11-05T10:25:00.000Z",
+                                        "2019-11-05T14:15:00.000Z"
+                                    ],
+                                    "duration": "03:50"
+                                }
+                            ],
+                            "flightNumber": "FR 8859",
+                            "time": [
+                                "2019-11-05T11:25:00.000",
+                                "2019-11-05T14:15:00.000"
+                            ],
+                            "timeUTC": [
+                                "2019-11-05T10:25:00.000Z",
+                                "2019-11-05T14:15:00.000Z"
+                            ],
+                            "duration": "03:50"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2019-11-06T00:00:00.000",
+                    "flights": []
+                },
+                {
+                    "dateOut": "2019-11-07T00:00:00.000",
+                    "flights": [
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~8859~ ~~BUD~11/07/2019 19:15~LIS~11/07/2019 22:05~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~C~ ~FR~CLDISZP~ZZZP~~0~1~~X",
+                                "fareClass": "C",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 18084.0000,
+                                        "count": 1,
+                                        "hasDiscount": true,
+                                        "publishedFare": 20054.0000,
+                                        "discountInPercent": 10,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "BUD",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 8859",
+                                    "time": [
+                                        "2019-11-07T19:15:00.000",
+                                        "2019-11-07T22:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2019-11-07T18:15:00.000Z",
+                                        "2019-11-07T22:05:00.000Z"
+                                    ],
+                                    "duration": "03:50"
+                                }
+                            ],
+                            "flightNumber": "FR 8859",
+                            "time": [
+                                "2019-11-07T19:15:00.000",
+                                "2019-11-07T22:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2019-11-07T18:15:00.000Z",
+                                "2019-11-07T22:05:00.000Z"
+                            ],
+                            "duration": "03:50"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~8860~ ~~BUD~11/07/2019 17:15~LIS~11/07/2019 20:05~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~C~ ~FR~CLDISZP~ZZZP~~0~1~~X",
+                                "fareClass": "C",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 14037.0000,
+                                        "count": 1,
+                                        "hasDiscount": true,
+                                        "publishedFare": 20054.0000,
+                                        "discountInPercent": 30,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "BUD",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 8860",
+                                    "time": [
+                                        "2019-11-07T17:15:00.000",
+                                        "2019-11-07T20:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2019-11-07T16:15:00.000Z",
+                                        "2019-11-07T20:05:00.000Z"
+                                    ],
+                                    "duration": "03:50"
+                                }
+                            ],
+                            "flightNumber": "FR 8860",
+                            "time": [
+                                "2019-11-07T17:15:00.000",
+                                "2019-11-07T20:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2019-11-07T16:15:00.000Z",
+                                "2019-11-07T20:05:00.000Z"
+                            ],
+                            "duration": "03:50"
+                        },
+                        {
+                            "faresLeft": -1,
+                            "flightKey": "FR~8839~ ~~BUD~11/07/2019 11:15~LIS~11/07/2019 14:05~~",
+                            "infantsLeft": 18,
+                            "regularFare": {
+                                "fareKey": "0~C~ ~FR~CLDISZP~ZZZP~~0~1~~X",
+                                "fareClass": "C",
+                                "fares": [
+                                    {
+                                        "type": "ADT",
+                                        "amount": 18084.0000,
+                                        "count": 1,
+                                        "hasDiscount": true,
+                                        "publishedFare": 20054.0000,
+                                        "discountInPercent": 10,
+                                        "hasPromoDiscount": false
+                                    }
+                                ]
+                            },
+                            "operatedBy": "",
+                            "segments": [
+                                {
+                                    "segmentNr": 0,
+                                    "origin": "BUD",
+                                    "destination": "LIS",
+                                    "flightNumber": "FR 8839",
+                                    "time": [
+                                        "2019-11-07T11:15:00.000",
+                                        "2019-11-07T14:05:00.000"
+                                    ],
+                                    "timeUTC": [
+                                        "2019-11-07T10:15:00.000Z",
+                                        "2019-11-07T14:05:00.000Z"
+                                    ],
+                                    "duration": "03:50"
+                                }
+                            ],
+                            "flightNumber": "FR 8839",
+                            "time": [
+                                "2019-11-07T11:15:00.000",
+                                "2019-11-07T14:05:00.000"
+                            ],
+                            "timeUTC": [
+                                "2019-11-07T10:15:00.000Z",
+                                "2019-11-07T14:05:00.000Z"
+                            ],
+                            "duration": "03:50"
+                        }
+                    ]
+                },
+                {
+                    "dateOut": "2019-11-08T00:00:00.000",
+                    "flights": []
+                }
+            ]
+        }
+    ],
+    "serverTimeUTC": "2019-07-24T19:21:27.707Z"
+}
